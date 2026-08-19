@@ -34,7 +34,7 @@ https://mcp.payzu.processamento.com/mcp
 
 **Instalador pro Claude Desktop** (offline/local): baixe o [payzu-mcp-pix.mcpb](https://github.com/PayZuAI/payzu-mcp/releases/latest) e abra o arquivo — o Claude pede só o token.
 
-> Token disponível no painel em [abrirconta.payzu.com.br](https://abrirconta.payzu.com.br). Guia completo na [documentação](https://docs.payzu.com.br/docs/pix-processamento/mcp).
+> Token disponível no dashboard: [Processamento → Credenciais](https://web.payzu.processamento.com/credentials) ou [Hub → Tokens](https://hub.payzu.com.br/settings/tokens). Guia completo na [documentação](https://docs.payzu.com.br/docs/pix-processamento/mcp).
 
 ## Contato
 
