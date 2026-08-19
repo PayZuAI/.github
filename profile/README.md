@@ -14,7 +14,8 @@
 
 | Projeto | O que faz |
 |---|---|
-| [payzu-mcp](https://github.com/PayZuAI/payzu-mcp) | Servidores MCP das APIs PayZu (Pix Processamento e Conta Digital). Conecte sua conta ao Claude, Cursor, Windsurf ou qualquer agente de IA e opere por conversa: crie cobranças, consulte saldo, acompanhe transações. |
+| [payzu-mcp](https://github.com/PayZuAI/payzu-mcp) | Servidor MCP da API Pix Processamento. Conecte sua conta ao Claude, Cursor, Windsurf ou qualquer agente de IA e opere por conversa: crie cobranças, consulte saldo, acompanhe transações. |
+| [payzu-sdks](https://github.com/PayZuAI/payzu-sdks) | SDKs oficiais da PayZu Pix API — [npm](https://www.npmjs.com/package/payzu-pix), [PyPI](https://pypi.org/project/payzu-pix/), Go e PHP, gerados do OpenAPI. |
 
 ## Sua conta PayZu conversando com IA
 
